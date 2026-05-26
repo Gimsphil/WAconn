@@ -1,0 +1,6 @@
+{
+  "name": "myBIZcon",
+  "description": "An AI-powered personal business assistant for real-time translation, meeting transcription and diaries, smart note taking, and Google Workspace synchronization.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
